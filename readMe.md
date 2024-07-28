@@ -18,7 +18,7 @@ Majority of the files in this repository are very straight foward, and easy to u
 
         console.log(bitarray);
 ```
-    - This code will be injected into the toCompressedString() function inside Meta's source.
+- This code will be injected into the toCompressedString() function inside Meta's source.
 <img width="700" alt="image" src="https://media.discordapp.net/attachments/1115622246774472765/1267175007298125857/Screenshot_2024-07-28_at_1.37.35_PM.png?ex=66a7d430&is=66a682b0&hm=be3db7ff2e5e87e907be94aa1dd76418cff641db0532ddd4265f6d74449f6c0c&=&format=webp&quality=lossless&width=1868&height=1088">
 2. Analyze the Local Values, you will notice an object called "bitarray," copy this object.
 <img width="700" alt="image" src="https://media.discordapp.net/attachments/1115622246774472765/1267175007641931857/Screenshot_2024-07-28_at_1.37.45_PM.png?ex=66a7d430&is=66a682b0&hm=25ea245f6568cf07ed2740f3af89ad74c73d3b81a045546fb1c9551e6c9dd396&=&format=webp&quality=lossless&width=1868&height=1150">
