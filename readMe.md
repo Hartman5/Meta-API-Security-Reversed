@@ -24,7 +24,7 @@ Majority of the files in this repository are very straight foward, and easy to u
 <img width="700" alt="image" src="https://media.discordapp.net/attachments/1115622246774472765/1267175007641931857/Screenshot_2024-07-28_at_1.37.45_PM.png?ex=66a7d430&is=66a682b0&hm=25ea245f6568cf07ed2740f3af89ad74c73d3b81a045546fb1c9551e6c9dd396&=&format=webp&quality=lossless&width=1868&height=1150">
 <img width="700" alt="image" src="https://media.discordapp.net/attachments/1115622246774472765/1267175007910625281/Screenshot_2024-07-28_at_1.37.55_PM.png?ex=66a7d430&is=66a682b0&hm=c67879fa6a7b50f0b1bc7c23c2df666a1f80d234550c40d28b563b8574626046&=&format=webp&quality=lossless&width=1868&height=388">
 3. Paste this object into ./dyn.js, at line two, inside of the array.
-<img width="700" alt="image" src="hhttps://media.discordapp.net/attachments/1115622246774472765/1267175008216682496/Screenshot_2024-07-28_at_1.38.26_PM.png?ex=66a7d430&is=66a682b0&hm=80b4df38d56199e856d3ac4833fc595fa68f844ea7b9baf8261b8d11619caaee&=&format=webp&quality=lossless&width=1204&height=1262">
+<img width="700" alt="image" src="https://media.discordapp.net/attachments/1115622246774472765/1267175008216682496/Screenshot_2024-07-28_at_1.38.26_PM.png?ex=66a7d430&is=66a682b0&hm=80b4df38d56199e856d3ac4833fc595fa68f844ea7b9baf8261b8d11619caaee&=&format=webp&quality=lossless&width=1204&height=1262">
 4. Run node dyn.js - There is your __dyn value for the request. Every module list is different for every request.
 
 # Contact
