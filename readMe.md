@@ -1,6 +1,6 @@
 # Meta's Security Reversed
 
-This repository will continue to grow, until every single Meta security header / parameter is reversed. All files are ready to be implemented into any automation / scraper, for custom work: **contact on Telegram @Hartman50**
+This repository will continue to grow, until every single Meta security header / parameter is reversed. All files are ready to be implemented into any automation / scraper, for custom work: **contact on Telegram @reversewasm**
 
 Majority of the files in this repository are very straight foward, and easy to use. I'll explain the setup for more complicated configurations below.
 
@@ -29,4 +29,4 @@ Majority of the files in this repository are very straight foward, and easy to u
 
 # Contact
 
-Contact me on Telegram - @Hartman50
+Contact me on Telegram - @reversewasm
